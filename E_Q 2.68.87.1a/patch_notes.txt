@@ -1,0 +1,115 @@
+***Caractéristiques minimales***
+Résolution minimal : 1280 x 600
+Mémoire de stockage (disque dur) : 90 mo
+Mémoire vive (RAM) : 30 mo
+Carte graphique conseillé : Tous types
+Langue du jeu : Français
+
+
+Historiques des versions :
+
+version 2.7 Béta :
+
+- Mise en place du logo
+- Mise en place du texte copyright
+- ajout son pour logo
+- mise en place du générateur de son pour le jeu
+- correctif du bugs des bouttons dans la page de selection des races
+- refonte de la page principale
+- refonte de la page de selection des race
+- refonte du menu aide
+- refonte des boutons du lancement du jeu
+- correctif des bugs cartes 1-11
+- ajout des limites des cartes 9-16
+- ajout des barrières de sécurité pour les cartes non terminés
+- refonte complète du livre des sorts
+- refonte complète de l'inventaire
+- ajout de la traduction anglaise
+- correctif de fautes orthographiques
+- suppression de la fenêtre de présentation de l'acte 1
+- refonte de la fenêtre de présentation de l'acte 1
+- correctif des bugs concerant la fenêtre de présentation de l'acte 1
+- correctif du crash lorsque l'on passe d'une carte à une autre
+- correctif des bugs lors des combats 
+- refonte de la fenêtre de combat
+- suppression de l'instalateur .exe
+- mise en package sous .zip directement utilisable
+- amélioration des performance de la fenêtre de combat
+- amélioration de la stabilité du jeu
+- amélioration de la gestion des ressources du jeu
+- supprésion des boutons de la page principale
+- refonte de la fenêtre "option"
+- mise en place des boutons de selection dans la fenêtre "option"
+- correctif et stabilisation de la fenêtre "option"
+- mise en place d'une securité pour ne pas ouvrir deux fois la même fenêtre
+- mise en place des varibles du personnage "humain"
+- mise en place des descriptifs du personnage "humain"
+- suppression de la confirmation de la selection du personnage
+- suppression de la variable "déplacement disponible"
+- ajout de la variable "vitesse de déplacement"
+- correctif de l'IA "le voleur de la sacoche"
+- ajout du lien du site web de unlimited corporation dans le menu aide
+- correctif lié a la seuvegarde
+- amélioration du temps de chargement et de sauvegarde
+- correctif des bugs connus liés à la quête "le voleur de sacoche"
+- correctif des bugs connus liés au chargement de partie
+- suppression de nombreuses images .bmp (+ de 60 images)
+- traduction de l'acceuil du menu aide
+- traduction de l'inventaire en fonction de la langue choisie
+- amélioration du moteur graphique
+- correction de nombreux autres bugs mineurs
+
+
+Version 2.6 Béta :
+
+- modification de l'aide "quêtes" et "inventaire"
+- ajout de l'aide "combat" et "sort"
+- correction des bugs pour les 5 premières cartes
+- création des cartes 6 à 22
+- correctif des bugs pour les cartes 6 à 22
+- amélioration de la stabilité du système
+- le joueur peut sauvegarder avec la touche "c" à n'importe quel moment.
+- refonte de l'interface de combat
+- ajout de la mini carte 2, 3
+- ajout d'un bouton on/off pour la musique sur la page de départ
+- refonte de l'interface de la page de présentation
+- refonte de l'interface de la rubrique "aide"
+- refonte de l'interface de la rubrique "campagne"
+- suppression des pages additionnelles sur les personnages (vous devez simplement confirmer votre choix à la selection du personnage)
+- correction des bugs page d'introduction, carte 1
+- amélioration du système de mouvement du personnage
+- amélioration de la gestion de la ram
+- refonte de l'interface et optimisation de la partie "options"
+- refonte de l'interface du menu centrale en jeu
+- ajout d'une securité suplémentaire pour éviter les crash
+- ajout des cartes "agrandir" pour le secteur 2, 3 couvrant les cartes 6 à 22
+- correction de la carte agrandir 1
+- la campagne humaine est maintenant obligatoire avant de pouvoir acceder aux autres
+- recalibrage de la fenêtre de jeu (compatibilité pour toute résolution)
+- correction du bug d'affichage pour le dialogue de la quête du voleur
+- Refonte de l'interface de choix des campagnes
+- correction du bug retour au menu principale avec la page de présentation qui restait ouverte (la mort du roi thère)
+- correction du bug de lancement de la musique d'initialisation du jeu lors du retour au menu principal à partir du jeu
+- correction des options "music" qui relancais le son au départ lors du choix "music oui ou non"
+- correction du bug lors des combats pour la fermeture des fenêtres
+- nouvelle interface pour les quêtes
+- ajout du numéro de la version du jeu à la page principale
+- finalisation des limites cartes 1-5
+- ajout des limites carte 6, 7, 8
+
+
+
+Version 2.5 Béta :
+
+- Correction des bugs pour les 5 premières cartes.
+- Ajout de correctif pour le menu Système qui est maintenant opérationel.
+- Suppréssion du choix de la difficulté dans le menu système.
+- Ajout de chemin de retour dans les menus d'introduction
+- Ajout de chemin de retour dans le menu aide.
+- Modification de l'interface de la page initiale
+- Ajout de l'onglet "muet" sur la page initiale
+- Correction des bugs qui fesaient planté le jeu.
+- Ajout du chemin "menu principal" lorsque l'on quitte.
+- Ajout de la quête "la sacoche"
+- correction de l'écran qui était blanc apprès la fermeture d'un fenêtre.
+- Optimisation du code source
